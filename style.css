@@ -1,0 +1,26 @@
+.card {
+    width: 90%;
+    max-width: 960px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+#jpImage {
+    width: 90%;
+    height: 90%;
+    max-width: 302px;
+    max-height: 170px;
+    align-self: center;
+    margin-top: 10px;
+}
+.card-text, .card-title, .card-subtitle, .form-label {
+    margin: 10px 30px;
+}
+.card-text {
+    text-align: left;
+    font-size: 1.1em;
+}
+#slogan {
+    text-align: center;
+    font-style: italic;
+}
