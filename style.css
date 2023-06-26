@@ -5,6 +5,10 @@
     margin: auto;
     margin-top: 10px;
 }
+#exhibits {
+    width: 90%;
+    max-width: 500px;
+}
 img {
     margin: 10px 5px;
 }
@@ -35,7 +39,4 @@ img {
     font-style: italic;
     color: black;
     font-weight:500;
-}
-#velociraptorImg {
-    scale: 50%;
 }
