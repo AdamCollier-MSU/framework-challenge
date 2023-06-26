@@ -8,6 +8,7 @@
 #exhibits {
     width: 90%;
     max-width: 500px;
+    padding: 10px 0px;
 }
 img {
     margin: 10px 5px;
@@ -20,7 +21,8 @@ img {
     align-self: center;
 }
 .card-text, .card-title, .card-subtitle, .form-label {
-    margin: 10px 30px;
+    margin: 20px 30px;
+    padding-top: 10px;
     color: rgb(0, 0, 0);
 }
 .card-text {
