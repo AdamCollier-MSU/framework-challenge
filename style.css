@@ -5,22 +5,37 @@
     margin: auto;
     margin-top: 10px;
 }
+img {
+    margin: 10px 5px;
+}
 #jpImage {
     width: 90%;
     height: 90%;
     max-width: 302px;
     max-height: 170px;
     align-self: center;
-    margin-top: 10px;
 }
 .card-text, .card-title, .card-subtitle, .form-label {
     margin: 10px 30px;
+    color: rgb(0, 0, 0);
 }
 .card-text {
     text-align: left;
     font-size: 1.1em;
 }
+.card-subtitle {
+    border-top: #969696 dashed .1em;
+}
+.bold {
+    font-weight: 500;
+    background-color: rgb(248, 249, 250);
+}
 #slogan {
     text-align: center;
     font-style: italic;
+    color: black;
+    font-weight:500;
+}
+#velociraptorImg {
+    scale: 50%;
 }
